@@ -7,6 +7,7 @@ I'm a recent college graduate that started her career as a fullstack developer a
 1. 
 2. 
 3. 
+4.
 ````
 ````
 * bullets 
